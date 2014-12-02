@@ -1,3 +1,6 @@
-## Correction des TPs de Java SERLI
+## Correction des TPs de Java SE SERLI
 
-gradlew build
+Pour lancer le Build :
+> gradlew build
+ou (si gradle est installé sur votre machine)
+> gradle build
